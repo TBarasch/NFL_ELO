@@ -156,7 +156,7 @@ then used to train the model.
 
 The code used to run the training and testing of the algorithms can be
 found at the projects github repo
-[here](https://github.com/TBarasch/NFL_ELO_predictions):
+[here](https://github.com/TBarasch/NFL_ELO):
 
 # Results & Discussion
 
